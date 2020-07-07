@@ -1,0 +1,18 @@
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\bin\Debug\Saat_calar.exe.config
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\bin\Debug\Saat_calar.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\bin\Debug\Saat_calar.pdb
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.csprojResolveAssemblyReference.cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.Form1.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.Properties.Resources.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.csproj.GenerateResource.Cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Saat_calar\Saat_calar\obj\Debug\Saat_calar.pdb
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\bin\Debug\Saat_calar.exe.config
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.exe
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.pdb
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\bin\Debug\Saat_calar.exe
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\bin\Debug\Saat_calar.pdb
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.csprojResolveAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.Form1.resources
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\Saat_calar\Saat_calar\obj\Debug\Saat_calar.csproj.GenerateResource.Cache
